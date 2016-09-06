@@ -60,3 +60,10 @@ li {
     margin-left: -17px;
     color: #CCCCCC;
 }
+
+
+.jumbotron {
+
+   background: url('../images/background.png') no-repeat right;
+/*   background: url('../images/backgourd2.gif') no-repeat left;*/
+}
